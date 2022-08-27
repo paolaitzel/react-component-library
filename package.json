@@ -1,7 +1,7 @@
 {
-  "name": "@PaolaMartinezItz/react-component-library",
+  "name": "@paolaitzel/react-component-library",
   "publishConfig": {
-    "@PaolaMartinezItz:registry": "https://npm.pkg.github.com"
+    "@paolaitzel:registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.1",
   "description": "My custom components library",
@@ -23,7 +23,7 @@
     "Styled components",
     "Rollup"
   ],
-  "author": "Paola Martinez",
+  "author": "Paola Itzel",
   "license": "ISC",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
