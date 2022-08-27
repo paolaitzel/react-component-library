@@ -1,7 +1,7 @@
 {
   "name": "@PaolaMartinezItz/react-component-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/PaolaMartinezItz"
+    "@PaolaMartinezItz:registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.1",
   "description": "My custom components library",
